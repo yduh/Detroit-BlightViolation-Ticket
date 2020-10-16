@@ -1,9 +1,9 @@
 # Detroit-BlightViolation-Ticket
 Predict whether a given ticket will be paid on time? 
 
-The dataset is supplied in the [kaggle competition](https://www.kaggle.com/c/detroit-blight-ticket-compliance)), based on the [data challenge](http://midas.umich.edu/mdst/) from the Michigan Data Science Team (MDST) partnered with the City of Detroit.
+The dataset is supplied in the [kaggle competition](https://www.kaggle.com/c/detroit-blight-ticket-compliance), based on the [data challenge](http://midas.umich.edu/mdst/) from the Michigan Data Science Team (MDST) partnered with the City of Detroit.
 
-This project showcases the application of ML algorithms, ensemble test, and imblanced data resampling techniques using the particular dataset.
+This project showcases the application of ML algorithms, ensemble test, and techniques of resampling imblanced dataset.
 
 You can find more details about the study in my blog post [here]().
 
@@ -11,7 +11,7 @@ You can find more details about the study in my blog post [here]().
 
 There should be no necessary libraries to run the code beyond Anaconda distribution of Python. The code should run without issues in Python3.
 
-## File Descriptions
+## File descriptions
 
 There are 3 notebooks available here to showcase work related. The workflow is organized and documented in three Jupyter notebooks as follows: 
 
