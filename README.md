@@ -1,7 +1,8 @@
 # Detroit-BlightViolation-Ticket
-Predict whether a given ticket will be paid on time using City Detroit public data.
+Predict whether a given ticket will be paid on time.
 
 This project showcases the application of ML algorithms, ensemble test, and techniques of resampling imblanced dataset.
+
 You can find more details about the study in my blog post [here](https://kate-d.medium.com/predict-whether-a-given-ticket-will-be-paid-2967ca93ec1c).
 
 ## Dataset
