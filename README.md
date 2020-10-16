@@ -1,5 +1,7 @@
 # Detroit-BlightViolation-Ticket
-Predict whether a given ticket will be paid on time using the dataset supplied in the kaggle competition [here](https://www.kaggle.com/c/detroit-blight-ticket-compliance), based on the data challenge [here](http://midas.umich.edu/mdst/) from the Michigan Data Science Team (MDST) partnered with the City of Detroit.
+Predict whether a given ticket will be paid on time? 
+
+The dataset is supplied in the [kaggle competition](https://www.kaggle.com/c/detroit-blight-ticket-compliance)), based on the [data challenge](http://midas.umich.edu/mdst/) from the Michigan Data Science Team (MDST) partnered with the City of Detroit.
 
 This project showcases the application of ML algorithms, ensemble test, and imblanced data resampling techniques using the particular dataset.
 
